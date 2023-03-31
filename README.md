@@ -1,8 +1,3 @@
-![code](https://user-images.githubusercontent.com/116851303/229158360-2220eecf-7f66-46a6-b23a-938161dab659.gif)
-![gmail](https://user-images.githubusercontent.com/116851303/229158366-467c8fae-8621-4af8-b47f-3baa20946c9a.svg)
-![instagram](https://user-images.githubusercontent.com/116851303/229158369-30480b97-f564-449d-8400-25201060304b.png)
-![linkedin](https://user-images.githubusercontent.com/116851303/229158371-3c3b9fe7-63dd-4212-83e7-57dfc56852fb.svg)
-[README.md](https://github.com/Thiagosmp/Thiagosmp/files/11123201/README.md)
 ## Faaaala dev, Thiago Souza Aqui!
 
 <div >
